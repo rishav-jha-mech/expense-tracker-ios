@@ -4,7 +4,7 @@ App 4 of 10.
 
 ## Goal
 
-<!-- what you set out to learn with this app -->
+Learn SwiftData relationships (a Category has many Expenses), practice building a form with real validation feedback instead of just disabling a save button, and try a second Swift Charts type (a pie/donut chart) after the bar chart in app 3.
 
 ## What it does
 
@@ -12,7 +12,10 @@ Log expenses against categories, filter and sort the list, see a category breakd
 
 ## Screenshots
 
-<!-- add screenshots here -->
+<div align="center">
+  <img src="screenshots/expenses-list.png" width="250" />
+  <img src="screenshots/add-expense.png" width="250" />
+</div>
 
 ## What I learned
 
