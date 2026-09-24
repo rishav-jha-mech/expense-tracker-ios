@@ -17,14 +17,6 @@ Log expenses against categories, filter and sort the list, see a category breakd
   <img src="screenshots/add-expense.png" width="250" />
 </div>
 
-## What I learned
-
-<!-- fill in after building -->
-
-## What I'd do differently
-
-<!-- fill in after building -->
-
 ## License
 
 MIT, see [LICENSE](LICENSE).
